@@ -1,5 +1,6 @@
 # hello-world
 
-Hello!
+Hello world!
 
-I am Jesung and I like going fast.
+I am Jesung.
+
